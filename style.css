@@ -1,0 +1,30 @@
+button{
+    background-color:#Ffffff;
+    padding: 16px 30px 16px 30px;
+    font-size : 14px;
+    font-weight:bold;
+    border: 2px solid gainsboro;
+}
+.button i {
+  margin-left: 5px;
+}
+.button{
+    border-radius:2px;
+}
+.button-1{
+    border-radius: 8px;
+
+}
+.button-2{
+    border-radius:45px;
+}
+.button-3{
+    border-radius:45px
+}
+button:hover{
+    background-color: brown;
+    border-color:brown;
+    color:#Ffffff
+
+
+}
